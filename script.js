@@ -31,6 +31,14 @@ const quizData = [
         d: "none of the above",
         correct: "b",
     },
+    {
+        question: "What does PHP stand for?",
+        a: "PHP stands for Preprocessor Home Page",
+        b: "PHP stands for Pretext Hypertext Processor",
+        c: "PHP stands for Hypertext Preprocessor",
+        d: "PHP stands for Personal Hyper Processor",
+        correct: "c",
+    },
 ];
 
 const quiz = document.getElementById('quiz')
